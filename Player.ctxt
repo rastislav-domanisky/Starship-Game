@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=game
+comment1.target=Player(Game)
+comment2.params=
+comment2.target=void\ initRects()
+comment3.params=
+comment3.target=void\ kill()
+comment4.params=direction
+comment4.target=void\ move(MoveDirection)
+comment5.params=isLeft
+comment5.target=void\ render(java.lang.Boolean)
+comment6.params=
+comment6.target=int\ getWidth()
+comment7.params=
+comment7.target=int\ getHeight()
+comment8.params=
+comment8.target=int\ getPosX()
+comment9.params=
+comment9.target=int\ getPosY()
+numComments=10

@@ -2,7 +2,7 @@
 ##### Java BlueJ projekt 
 
 
-### How to play game:
+### Ako spustiť hru:
 - vytvor inštanciu triedy Game
 
 ### Ovládanie:
